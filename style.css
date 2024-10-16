@@ -345,7 +345,7 @@ body::-webkit-scrollbar-thumb{
 }
 
 #scroller{
- /* background-color: #bbff02; */
+ background-color: #bbff02;
  white-space: nowrap;
  overflow-x : auto;
  overflow-y: hidden;
