@@ -63,8 +63,8 @@ gsap.to("#main",{
         trigger:"#main",
         scroller:"body",
         // markers:true,
-        start:"top -50%",
-        end:"top -60%",
+        start:"top -15%",
+        end:" top -12%",
         scrub:2
     }
 })
@@ -77,7 +77,7 @@ gsap.from(" #aboutus img,#about-text",{
         trigger:"#aboutus",
         scroller:"body",
         // markers:true,
-        start:"top 60%",
+        start:"top 80%",
         end:"top 55%",
         scrub:3
     }
@@ -91,8 +91,8 @@ gsap.from("#card",{
         trigger:"#card",
         scroller:"body",
         // markers:true,
-        start:"top 75%",
-        end:"top 50%",
+        start:"top 90%",
+        end:"top 10%",
         scrub:1
     }
 })
@@ -126,8 +126,8 @@ gsap.from(".page4 h1",{
         trigger:".page4 h1",
         scroller:"body",
         // markers:true,
-        start:"top 75%",
-        end:"top 70%",
+        start:"top 80%",
+        end:"top 76%",
         scrub:3
     }
 })
